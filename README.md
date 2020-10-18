@@ -11,3 +11,5 @@ in Face encodings. Gender and year of birth is also matched.
 If the gender, age and image match, then the user is **permitted** or else he is asked to enter the **correct information.**
 
 We don't save any of the aadhar pictures for verification, we delete them. This not only ensures privacy of the user but also saves space for us! 
+
+The model is deployed using Flask. 
